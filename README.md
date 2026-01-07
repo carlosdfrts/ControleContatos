@@ -31,7 +31,7 @@ Permite criar, editar, excluir e listar contatos, com validações de formulári
 ## Screenshots
 
 **Tela de listagem de contatos**  
-<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/8ea8e5dd-3f29-4583-a00c-6e7eed5d848a" />
+<img width="1920" height="937" alt="image" src="https://github.com/user-attachments/assets/16a54615-b6d1-4f95-a32a-662b48f0df2d" />
 
 **Tela de criar contato**  
 <img width="1920" height="935" alt="image" src="https://github.com/user-attachments/assets/00b3569d-7cfc-4d0e-a29e-192331663e8c" />
