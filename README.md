@@ -1,4 +1,4 @@
-# 📇 Cadastro de Contatos MVC
+# Cadastro de Contatos MVC
 
 Um sistema simples de **CRUD de contatos** feito em **ASP.NET Core MVC** com **Entity Framework Core** e **SQL Server**.  
 
